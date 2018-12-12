@@ -1,0 +1,112 @@
+.itemDisp{
+    height: 200px;
+    width:200px;
+   
+   margin: 56px 30px 30px 30px;
+   float:left;
+}
+.addtocart{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.register{
+    margin-left:150px;
+}
+.images{
+    height:200px;
+    width:200px
+}
+.textDisp{
+    text-shadow: 0px 1px 0 black;
+}
+.Carousel{
+    margin-left:100px;
+}
+.price{
+    font-size:15px;
+    margin-left:90px;
+
+}
+.add{
+    background-color: #0067b8;
+}
+.alertDisp{
+    margin-left:300px;
+    width:50%;
+    text-align: center;
+    margin-top:10px;
+}
+.signUp{
+    margin-left:30%;
+    margin-right:auto;
+    margin-top:10%;
+}
+.login{
+   
+    height:500px;
+    margin-top:-60px;
+}
+.tab{
+    margin:auto;
+    width:500px;
+}
+.upButton{
+    color:white;
+}
+.mathpix{
+    height: 70px;
+    width: 600px;
+
+    margin-top:30px;
+    margin-left:240px;
+}
+.displayArea{
+  
+    height: 60px;
+    width:400px;
+    margin-top:20px;
+    margin-left:260px;
+    font-size: 50px;
+}
+.displaytable{
+
+    font-size:20px;
+}
+.thead{
+    margin:auto;
+}
+.mathImage{
+ margin-left:150%;
+ font-size: 40px;
+}
+.drawArea {
+    
+   margin:auto;
+    width: 900px;
+    height: 400px;
+    margin-left:8%;
+  
+    float: left;
+    cursor: crosshair;
+    border: 2px solid grey;
+  }
+  
+  .path {
+    fill: none;
+    stroke-width: 1px;
+    stroke: black;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  
+  .drawing {
+    width: 100%;
+    height: 100%;
+  }
+.nom{
+    background-color:red;
+    height:100px;
+    width:100px;
+}
+
